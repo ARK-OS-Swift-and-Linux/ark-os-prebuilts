@@ -1,0 +1,5 @@
+--- TARGET ---
+Name = prebuilts
+Type = copy
+Sources = .
+Dest = builddir/prebuilts
