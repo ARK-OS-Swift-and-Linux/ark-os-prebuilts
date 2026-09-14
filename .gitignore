@@ -1,1 +1,15 @@
-.ninja
+*.o
+.vscode
+*.ninja
+.gitignore
+*.builddir
+*.log
+*.patch
+*.resloved
+*.bin
+
+!aake
+!AGENTS.md
+!CREDITS.md
+!README.md
+!LICENSE
